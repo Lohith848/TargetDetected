@@ -14,8 +14,8 @@ import logging
 from datetime import datetime
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-CHAT_ID   = "YOUR_TELEGRAM_CHAT_ID"
+BOT_TOKEN = "8269865619:AAGJAANp3DmtWFfG4sTdM1KTKM4BvuGEV3A"
+CHAT_ID   = "7722428088"
 SCRIPT_DIR    = os.path.dirname(os.path.abspath(__file__))
 LOG_FILE      = os.path.join(SCRIPT_DIR, "monitor.log")
 CAPTURE_FILE  = os.path.join(SCRIPT_DIR, "intruder.jpg")

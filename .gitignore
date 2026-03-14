@@ -1,0 +1,6 @@
+.env
+*.log
+intruder.jpg
+__pycache__/
+*.pyc
+*.jpg

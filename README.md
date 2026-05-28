@@ -111,6 +111,4 @@ Never commit your `.env` file. It contains your Telegram bot token and chat ID. 
 
 MIT License
 
-## Made by 
-
-LOHITH G 🌻
+## syncing ideas into reality — lohith 🌻

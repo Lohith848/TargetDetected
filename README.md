@@ -113,4 +113,4 @@ MIT License
 
 ---
 
-Syncing ideas into reality — Lohith 🌻
+Syncing ideas into reality — Lohith G 🌻

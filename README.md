@@ -6,7 +6,7 @@ A lightweight Windows security tool that detects failed login attempts, captures
 
 ## Features
 
-- Detects failed Windows login attempts (Event ID 4625)
+- Detects failed Windows login attempts
 - Captures a webcam photo immediately after detection
 - Sends alert to Telegram with timestamp, public IP, and hostname
 - Runs silently in the background via Windows Task Scheduler

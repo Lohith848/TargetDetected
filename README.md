@@ -1,6 +1,6 @@
 # Laptop Security Monitor
 
-A lightweight Windows security tool that detects failed login attempts, captures a webcam photo of the intruder, and sends an alert with the photo and public IP address to a Telegram bot
+A lightweight Windows security tool that detects failed login attempts, captures a webcam photo of the intruder, and sends an alert with the photo and public IP address to a Telegram bot.
 
 ---
 
